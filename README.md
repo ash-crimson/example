@@ -1,2 +1,3 @@
 # example
-An example repository from the Advanced Python class
+## explanation
+An example repository from the Advanced Python class from Monday, May 20th 2019. 
